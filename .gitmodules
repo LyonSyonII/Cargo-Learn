@@ -1,6 +1,0 @@
-[submodule "Cajón de sastre"]
-	path = Cajón de sastre
-	url = https://github.com/lyonsyonii/cargo-learn-cajon-sastre
-[submodule "Rust para Principiantes"]
-	path = Rust para Principiantes
-	url = https://github.com/lyonsyonii/rust-para-principiantes
