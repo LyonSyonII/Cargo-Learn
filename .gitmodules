@@ -1,3 +1,6 @@
 [submodule "Cajón de sastre"]
 	path = Cajón de sastre
 	url = ./Cajón de sastre/
+[submodule "Rust para Principiantes"]
+	path = Rust para Principiantes
+	url = https://github.com/lyonsyonii/rust-para-principiantes
