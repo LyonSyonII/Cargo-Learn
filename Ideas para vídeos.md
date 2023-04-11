@@ -1,3 +1,3 @@
-- ¿Qué es el sistema binario?
-- ¿Qué es UTF-8?
-- ¿Qué son los float?
+- [] ¿Qué es el sistema binario?
+- [] ¿Qué es UTF-8?
+- [] ¿Qué son los float?
