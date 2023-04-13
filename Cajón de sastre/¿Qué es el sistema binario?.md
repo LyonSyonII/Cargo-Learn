@@ -18,8 +18,6 @@ De acuerdo, ¡Vamos a ver de qué se trata realmente!
 
 ---
 
-<!-- .slide: data-auto-animate -->
-
 #### Binario = 2
 
 ! notas !
