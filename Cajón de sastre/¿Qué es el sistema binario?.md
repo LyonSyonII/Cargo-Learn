@@ -16,7 +16,6 @@ data-auto-animate-unmatched: false
 ¿Ah, que eso ya lo has escuchado muchas veces?
 De acuerdo, ¡Vamos a ver de qué se trata realmente!
 
-
 ---
 
 <!-- .slide: data-auto-animate -->
