@@ -9,8 +9,8 @@ enableChalkboard: false
 ! notas !
 
 ¿Qué es el sistema binario? Pues… ¿Son unos y ceros, no?
-¿No te he convencido? ¿Quieres saber más?
-De acuerdo, ¡vamos a desvelarlo!
+¿Que eso ya lo has escuchado muchas veces?
+
 
 ---
 
