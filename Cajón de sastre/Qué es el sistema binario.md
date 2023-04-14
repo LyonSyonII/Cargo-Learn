@@ -23,7 +23,24 @@ De acuerdo, ¡Vamos a ver de qué se trata realmente!
 ! notas !
 
 Irónicamente, el número más importante del sistema no es ni el uno ni el cero, sino el dos.
-Como la propia palabra indica, 
+Como la propia palabra indica, binario significa que hay dos, por lo tanto, es natural que se asocie con este número.
+
+---
+
+`class: h4`
+
+|           |         |
+| --------- | ------- |
+| ON        | Off     |
+| Encendido | Apagado |
+| Cierto    | Falso   |
+|           |         |
+<!-- .element class="font-bold" -->
+#### - On/Off
+#### - Encendido/Apagado
+#### - Cierto/Falso
+#### - On/Off
+#### - On/Off
 
 ---
 
