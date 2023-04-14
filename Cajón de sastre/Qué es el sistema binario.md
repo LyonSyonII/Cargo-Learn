@@ -22,7 +22,8 @@ De acuerdo, ¡Vamos a ver de qué se trata realmente!
 
 ! notas !
 
-Irónicamente, el número más importante del sistema no es ni el uno ni el cero, sino que 
+Irónicamente, el número más importante del sistema no es ni el uno ni el cero, sino el dos.
+Como la propia palabra indica, 
 
 ---
 
