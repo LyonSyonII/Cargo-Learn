@@ -34,5 +34,9 @@ Como la propia palabra indica, binario significa que hay dos, por lo tanto, es n
 | **CIERTO**    | **FALSO**   |
 |               |             |
 
+! notas !
+
+
+
 ---
 
