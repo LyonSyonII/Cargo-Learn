@@ -27,20 +27,12 @@ Como la propia palabra indica, binario significa que hay dos, por lo tanto, es n
 
 ---
 
-`class: h4`
-
-|           |         |
-| --------- | ------- |
-| ON        | Off     |
-| Encendido | Apagado |
-| Cierto    | Falso   |
-|           |         |
-<!-- .element class="font-bold" -->
-#### - On/Off
-#### - Encendido/Apagado
-#### - Cierto/Falso
-#### - On/Off
-#### - On/Off
+| 1             | 0           |
+| ------------- | ----------- |
+| **ON**        | **OFF**     |
+| **ENCENDIDO** | **APAGADO** |
+| **CIERTO**    | **FALSO**   |
+|               |             |
 
 ---
 
