@@ -27,7 +27,7 @@ Como la propia palabra indica, binario significa que hay dos, por lo tanto, es n
 
 ---
 
-| 1             | 0           |
+| **1**         | **0**       |
 | ------------- | ----------- |
 | **ON**        | **OFF**     |
 | **ENCENDIDO** | **APAGADO** |
@@ -36,7 +36,7 @@ Como la propia palabra indica, binario significa que hay dos, por lo tanto, es n
 
 ! notas !
 
-
+Tienen muchos nombres, 
 
 ---
 
