@@ -17,7 +17,6 @@ data-auto-animate-unmatched: false
 De acuerdo, ¡Vamos a ver de qué se trata realmente!
 
 ---
-
 #### Binario = 2
 
 ! notas !
@@ -32,11 +31,13 @@ Como la propia palabra indica, binario significa que hay dos, por lo tanto, es n
 | **ON**        | **OFF**     |
 | **ENCENDIDO** | **APAGADO** |
 | **CIERTO**    | **FALSO**   |
-|               |             |
+| 💡            |             |
 
 ! notas !
 
-Tienen muchos nombres, 
+Tienen muchos nombres, "on off", "cierto falso"... Pero lo realmente crucial es distinguir dos estados, uno en el que hay corriente y uno en el que no.
+
+Si pensamos en el sistema como 
 
 ---
 
